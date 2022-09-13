@@ -3,7 +3,7 @@
 
 struct Voxel{
 	float r, g , b;// // gama de core "r, g, b"
-	float a; //"a" denota a tranparência da cor para o voxel
-	bool isOn;// verdeadeiro ou falso, inclusão ou não inclusão do voxel
+	float a; //"a" denota a tranparï¿½ncia da cor para o voxel
+	bool isOn;// verdeadeiro ou falso, inclusï¿½o ou nï¿½o inclusï¿½o do voxel
 };
 #endif
